@@ -15,7 +15,7 @@ const CONFIG = {
       name: `morethan-log`,
       href: "https://github.com/lionleeee/morethan-log",
     },
-  ],
+  ], 
   // blog setting (required)
   blog: {
     title: "매일매일을 특별하게",
